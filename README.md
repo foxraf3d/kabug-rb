@@ -5,7 +5,7 @@ Repositório do projeto Kabug com Cucumber, Capybara e Ruby
 
  * Importante ter o ruby instalado (versão 2,5 ou superior)
  
-###Instalar o Bundler
+### Instalar o Bundler
 '
 
 gem install bundler
@@ -24,4 +24,4 @@ bundle exec cucumber
 ### Executar no servidor de CI (gerando reports JSON)
 '
 bundle exec cucumper -p ci
-
+'
