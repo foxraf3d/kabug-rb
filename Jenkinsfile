@@ -1,7 +1,7 @@
 pipeline{
     agent {
         docker{
-            image 'foxraf3d/rubywd'
+            image 'ruby'
         }
     }
     
